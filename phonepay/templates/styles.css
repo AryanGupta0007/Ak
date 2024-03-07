@@ -1,0 +1,8 @@
+#bill-box {
+    margin-top: 2vh;
+    margin-left: 10vw;
+    width: 80vw;
+    height: 400vh;
+    border: 1px solid white;
+    border-radius: 5%;
+}
